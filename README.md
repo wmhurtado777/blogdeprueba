@@ -3,3 +3,5 @@
 
 ## En este lugar provaré usar cherry-pick en Git
 * Haciendo curso de GitHub
+* Haciendo un segundo cambio
+* Un tercer cambio
