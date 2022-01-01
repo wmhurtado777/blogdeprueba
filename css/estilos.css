@@ -33,3 +33,11 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#footer{
+    background-color: #33a;
+}
+
+#footer p{
+    color: white;
+}
